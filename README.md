@@ -1,4 +1,6 @@
 - Hi, I’m Vladimir Tsitovtsev @vladtsit
 - I’m interested in Cloud Computing, Enterprise Architecture, Internet of Things and Artificial Intelligence
 - I’m currently learning Kusto (Azure Data Explorer)
+- I use Node-Red and JavaScript for development
+- I develop chat-bots and IoT solutions
 - I’m looking to collaborate on topics above
